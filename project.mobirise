@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "#OpSafeWinter 2018/2019",
-    "currentPage": "index.html",
+    "currentPage": "facebook.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "#OpSafeWinter 2018/2019",
+        "title": "#OpSafeWinter 2018/2019 World",
         "meta_descr": "We came to help",
         "header_custom": "",
         "footer_custom": "",
@@ -496,7 +496,7 @@
     "facebook.html": {
       "settings": {
         "meta_descr": "#OpSafeWinter on Facebook",
-        "title": "Facebook | #OpSafeWinter",
+        "title": "Facebook | #OpSafeWinter World",
         "order": 1
       },
       "components": [
