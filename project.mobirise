@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "#OpSafeWinter 2018/2019",
-    "currentPage": "live.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=7&rec=1\" style=\"border:0\" alt=\"\" />",
+    "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=8&amp;rec=1\" style=\"border:0\" alt=\"\" />",
     "siteUrl": "http://anonymous.support/opsafewinter/",
     "uniqCompNum": 8,
     "versionPublish": "4.8.6",
@@ -1411,11 +1411,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r8zrGrLEuR",
+          "_anchor": "menu1-4",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-4"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1442,11 +1442,11 @@
           "_name": "video2",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full-Width\" name=\"fullWidth\" checked>\n\n    <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Breite\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Farbverlauf\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Farbe 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"http://www.youtube.com/watch?v=VUKWDF03qjE&loop=1&autoplay=1\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "raaqrZw0yl",
+          "_anchor": "video2-7",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video2-7"
+          "_params": {}
         }
       ]
     }

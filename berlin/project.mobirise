@@ -33,11 +33,15 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=7&rec=1\" style=\"border:0\" alt=\"\" />",
-    "siteUrl": "undefined",
+    "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=8&amp;rec=1\" style=\"border:0\" alt=\"\" />",
+    "siteUrl": "http://anonymous.support/opsafewinter/berlin",
     "uniqCompNum": 3,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
